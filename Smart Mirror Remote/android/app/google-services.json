@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "110261691198",
+    "firebase_url": "https://smartmirorite.firebaseio.com",
+    "project_id": "smartmirorite",
+    "storage_bucket": "smartmirorite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110261691198:android:82f1cfbcc6f100fd",
+        "android_client_info": {
+          "package_name": "com.ite.smartmirrorremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110261691198-id3e12vu70fsnurdq985n1u7hkm0buqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ite.smartmirrorremote",
+            "certificate_hash": "78e384d1b8faeb0aceab5ac08f2006760e302e60"
+          }
+        },
+        {
+          "client_id": "110261691198-62e81r2mlvrnrm88e8m6janliqm0jsl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtEAtizmqjau_GPFd9n3Dnc8uQP6ZVB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110261691198-62e81r2mlvrnrm88e8m6janliqm0jsl3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110261691198-pepiuhhone4i2iflo445ha56p6rt2104.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.SmartMirrorRemote"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
