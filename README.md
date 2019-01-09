@@ -1,4 +1,4 @@
-# SmartMirror
+# Smart Mirror with Application (IoT Project)
 
 1. นายฐิติภัทร  เชิดชูความดี รหัสนักศึกษา   60010265   
 2. นายธนินธร วงศ์ปัญญา รหัสนักศึกษา   60010437 
